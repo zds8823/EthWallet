@@ -3,11 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EthWallet.iml" filepath="$PROJECT_DIR$/EthWallet.iml" />
-      <module fileurl="file://D:\android wok\EthWallet\EthWallet.iml" filepath="D:\android wok\EthWallet\EthWallet.iml" />
-      <module fileurl="file://D:\android wok\EthWallet\app\EthWallet-app.iml" filepath="D:\android wok\EthWallet\app\EthWallet-app.iml" />
-      <module fileurl="file://D:\android wok\EthWallet\android-apps-EthWallet.iml" filepath="D:\android wok\EthWallet\android-apps-EthWallet.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\android wok\EthWallet\app\app.iml" filepath="D:\android wok\EthWallet\app\app.iml" />
     </modules>
   </component>
 </project>
